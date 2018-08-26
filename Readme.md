@@ -13,7 +13,7 @@ This is not a comprehensive Python tutorial but instead is intended to highlight
  * Numpy Basic : Simple Numpy Operation
  * Pandas Basic : Simple Pandas Operation
  * MatplotLib : Line, Point, Bar Graph, Pie Chart
- * Scikit Learn : (Will be added later)
+ * Scikit Learn : Preprocessing class is being added
 
 ### Libraries required
 This tutorial is written in Python-3 (Numpy, Pandas, MatplotLib, Seaborn, Scikit-leanr). Anaconda already include all there libraries.
