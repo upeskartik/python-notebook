@@ -5,7 +5,7 @@ This is not a comprehensive Python tutorial but instead is intended to highlight
  * Python is very slow when written badly.
  * Translate C code into Python is often bad idea.
  * Pythonic solution sometimes result in drastic performance improvement.
- * Utilize libraries' capabilities more than you skill.
+ * Utilize libraries' capabilities more than your skill.
 
 ### Tutorial Includes
  * Python Basic : Basic python syntax and concept
